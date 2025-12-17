@@ -1,4 +1,4 @@
-# Birthday Website for Tunnu Babyyy ❤️
+# Birthday Website for ❤️
 
 A beautiful, romantic, single-page birthday website built with Next.js, TypeScript, and Framer Motion.
 
@@ -150,4 +150,5 @@ For Vercel deployment:
 
 ---
 
-Made with ❤️ for Tunnu Babyyy
+Made with ❤️
+
