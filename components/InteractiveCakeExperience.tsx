@@ -154,7 +154,7 @@ export const InteractiveCake: React.FC = () => {
           }
         } else {
           // Use existing text element
-          textElement = textContainer.firstChild;
+          textElement = textContainer.firstChild as HTMLElement | null;
         }
         
         // Trigger animation after a small delay
